@@ -1,0 +1,17 @@
+.Guava {color: rgb(0,0,0);
+        background-color: rgb(255,153,153);
+        font-size:18px;
+        font-weight: 100;
+        font-family:Verdana, "DejaVu Sans", sans-serif ;}
+
+#Bluey {color: rgb(0,0,255);
+        font-size:36px
+        }
+
+ .Guava.Additional {font-size:24px
+                    }
+
+#Greeny {color: rgb(0,0,0);
+        background-color: rgb(144,255,144);
+        font-weight: 700;
+        font-size: 24px;}
